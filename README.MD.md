@@ -39,30 +39,27 @@ Policies are defined inline using `jsonencode()` in Terraform:
 
 ## Below are the IAC code execute via command steps & its result
 
-
 # IAC IAM user code in VS Code  
-![VS Code](images/IAC-vs-code.png)
+![VS Code](IAC-vs code.png)
 
 ## Terraform Init command    
-![Init Screenshot](images/Terraform-init.png)
+![Init Screenshot](Terraform-init.png)
 
 ## Terraform Plan command   
-![Plan Screenshot 1](images/Terraform-plan-1.png)  
-![Plan Screenshot 2](images/Terraform-plan-2.png)
+![Plan Screenshot 1](Terraform-plan-1.png)  
+![Plan Screenshot 2](Terraform-plan-2.png)
 
 ## Terraform Apply command    
-![Apply Screenshot 1](images/Terraform-apply-1.png)  
-![Apply Screenshot 2](images/Terraform-apply-2.png)
+![Apply Screenshot 1](Terraform-apply-1.png)  
+![Apply Screenshot 2](Terraform-apply-2.png)
 
 ## Terraform Apply Result    
-![Apply Result](images/Terraform-apply-result.png)
+![Apply Result](Terraform-apply-result.png)
 
 ## Final Result on IAM Dashboard (Users)  
-![IAM 1](images/iam-dashboard-1.png)  
-![IAM 2](images/iam-dashboard-2.png)  
-![IAM 3](images/iam-dashboard-3.png)  
-![IAM 4](images/iam-dashboard-4.png)
-
+![IAM 1](iam-dashboard-1.png)  
+![IAM 2](iam-dashboard-2.png)  
+![IAM 3](iam-dashboard-3.png)  
 
 
 
