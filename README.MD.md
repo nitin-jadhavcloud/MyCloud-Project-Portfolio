@@ -39,30 +39,29 @@ Policies are defined inline using `jsonencode()` in Terraform:
 
 ## Below are the IAC code execute via command steps & its result
 
-IAC IAM user code in vs code   
-[![VS Code](../images/IAC-vs-code.png)]
 
-## Terraform Init command    ![Init Screenshot](images/Terraform-init.png)
+# IAC IAM user code in VS Code  
+![VS Code](images/IAC-vs-code.png)
 
+## Terraform Init command    
+![Init Screenshot](images/Terraform-init.png)
 
-## terraform Plan command   [![VS Code](../images/Terraform-plan-1.png)] [![VS Code](../images/Terraform-plan-2.png)] 
+## Terraform Plan command   
+![Plan Screenshot 1](images/Terraform-plan-1.png)  
+![Plan Screenshot 2](images/Terraform-plan-2.png)
 
+## Terraform Apply command    
+![Apply Screenshot 1](images/Terraform-apply-1.png)  
+![Apply Screenshot 2](images/Terraform-apply-2.png)
 
-## Terraform apply command    [![VS Code](../images/Teraform-apply-1.png)]   [![VS Code](../images/Terraform-apply-2.png)]
+## Terraform Apply Result    
+![Apply Result](images/Terraform-apply-result.png)
 
-
-## Terraform apply result    [![VS Code](../images/Terraform-apply-result.png
-)] 
-
-## Final result on IAM Dashboard ( users )  [![VS Code](../images/iam-dashboard-1.png)]  
-
-[![VS Code](../images/iam-dashboard-2.png)]  [![VS Code](../images/iam-dashboard-3.png)]
-
-[![VS Code](../images/iam-dashboard-4.png)]
-
-
-  
-  
+## Final Result on IAM Dashboard (Users)  
+![IAM 1](images/iam-dashboard-1.png)  
+![IAM 2](images/iam-dashboard-2.png)  
+![IAM 3](images/iam-dashboard-3.png)  
+![IAM 4](images/iam-dashboard-4.png)
 
 
 
