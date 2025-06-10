@@ -1,10 +1,10 @@
-# 🚀 Terraform AWS IAM Users, Groups, and Policies
+#  Terraform AWS IAM Users, Groups, and Policies
 
 This project uses **Terraform** to create and manage **IAM users, groups, and policies** in AWS. It showcases how to implement a basic **role-based access control (RBAC)** setup using only IaC (Infrastructure as Code).
 
 ---
 
-## 🔧 What This Code Does
+###   What This Code Does
 
 ### 1. **Creates IAM Groups**
 - `CloudOps_L1`
