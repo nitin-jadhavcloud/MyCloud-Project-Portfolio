@@ -42,7 +42,8 @@ Policies are defined inline using `jsonencode()` in Terraform:
 IAC IAM user code in vs code   
 [![VS Code](../images/IAC-vs-code.png)]
 
-## Terraform Init command    [![VS Code](../images/Terraform-init.png)]
+## Terraform Init command    ![Init Screenshot](images/Terraform-init.png)
+
 
 ## terraform Plan command   [![VS Code](../images/Terraform-plan-1.png)] [![VS Code](../images/Terraform-plan-2.png)] 
 
