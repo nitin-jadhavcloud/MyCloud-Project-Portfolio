@@ -69,7 +69,7 @@ Policies are defined inline using `jsonencode()` in Terraform:
 
 
 
-[![VS Code](../images/IAC-vs-code.png)]
+
 
 
 
